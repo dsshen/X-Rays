@@ -10,7 +10,7 @@ Are you a chemist and want to see how I compute the intensity and 2-theta values
 
 ## Concert notes from the Taplin performance
 
-Humans love patterns. Our brains are hardwired to detect them, and our souls are energized by them. Crystal chemists experience the thrill of symmetry when elucidating the structure of a new crystal, and musicians feel it when band members all lock into the same groove during a jam. That this same thrill can be experienced in such different contexts suggests something profound about how we’re all wired to think and feel, and this piece was written in part to investigate what on earth goes into that wiring.
+**Humans love patterns. Our brains are hardwired to detect them, and our souls are energized by them.** Crystal chemists experience the thrill of symmetry when elucidating the structure of a new crystal, and musicians feel it when band members all lock into the same groove during a jam. That this same thrill can be experienced in such different contexts suggests something profound about how we’re all wired to think and feel, and this piece was written in part to investigate what on earth goes into that wiring.
 
 All of the sounds that you hear in X-Rays are directly generated from modeled x-ray diffraction data. To probe at the unique symmetries within crystals, scientists often use a technique called x-ray crystallography, in which a beam of x-rays is fired onto a powdered crystalline sample; these x-rays then “bounce” off of the sample in a unique pattern based on the specific types and arrangements of the atoms within. This diffraction pattern is typically described in terms of the angles and intensities of the “bounces” and allows a scientist to elucidate a crystal’s structure. 
 
