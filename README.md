@@ -1,6 +1,6 @@
 # X-Rays
 
-X-Rays is a musical piece created entirely using audio synthesized by simulating the x-ray diffraction peaks of sodium chloride (table salt). It was first shown in concert at Taplin Auditorium, Princeton University, on May 10, 2018.
+*X-Rays* is a musical piece created entirely using audio synthesized by simulating the x-ray diffraction peaks of sodium chloride (table salt). It was first shown in concert at Taplin Auditorium, Princeton University, on May 10, 2018.
 
 [Watch the concert version on YouTube.](https://www.youtube.com/watch?v=nwrdy7rc-6Q)
 
