@@ -8,6 +8,8 @@ Are you a musician and want to generate these dank sounds yourself? If you have 
 
 Are you a chemist and want to see how I compute the intensity and 2-theta values? Check out the source code linked above, particularly the file [PluginProcessor.h](https://github.com/dsshen/x-rays/blob/master/XRDPlugin/Source/PluginProcessor.h). A good theoretical summary can be found [here](http://pd.chem.ucl.ac.uk/pdnn/diff2/dindex2.htm).
 
+The synth plugin was bootstrapped using [JUCE](https://github.com/juce-framework/JUCE) and written in C++. The piece itself was arranged and mixed using [Logic Pro X](https://www.apple.com/logic-pro/).
+
 ## Concert notes from the Taplin performance
 
 **Humans love patterns. Our brains are hardwired to detect them, and our souls are energized by them.** Crystal chemists experience the thrill of symmetry when elucidating the structure of a new crystal, and musicians feel it when band members all lock into the same groove during a jam. That this same thrill can be experienced in such different contexts suggests something profound about how we’re all wired to think and feel, and this piece was written in part to investigate what on earth goes into that wiring.
