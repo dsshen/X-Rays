@@ -6,7 +6,7 @@
 
 Are you a musician and want to generate these dank sounds yourself? If you have a DAW with VST and/or AU functionality (such as Ableton, Logic Pro, FL Studio, Cubase, etc.), you can! In the [PluginBuilds](https://github.com/dsshen/x-rays/tree/master/PluginBuilds) folder, you'll find VST and AU versions of the synth plugin used in this piece, which you can then install into your DAW of choice.
 
-Are you a chemist and want to see how I compute the intensity and 2-theta values? Check out the source code linked above, particularly the file [PluginProcessor.h](https://github.com/dsshen/x-rays/blob/master/XRDPlugin/Source/PluginProcessor.h). A good theoretical summary can be found [here](http://pd.chem.ucl.ac.uk/pdnn/diff2/dindex2.htm).
+Are you a chemist and want to see how I compute the intensity and 2-theta values? Check out the source code, particularly the file [PluginProcessor.h](https://github.com/dsshen/x-rays/blob/master/XRDPlugin/Source/PluginProcessor.h) for details. A good theoretical summary can be found [here](http://pd.chem.ucl.ac.uk/pdnn/diff2/dindex2.htm).
 
 The synth plugin was bootstrapped using [JUCE](https://github.com/juce-framework/JUCE) and written in C++. The piece itself was arranged and mixed using [Logic Pro X](https://www.apple.com/logic-pro/).
 
